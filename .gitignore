@@ -1,0 +1,4 @@
+.env
+.replit
+node_modules
+backup.env
